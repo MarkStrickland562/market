@@ -1,0 +1,14 @@
+#receipt {
+  display: none;
+  border-style: double;
+  border-spacing: 6px;
+  padding: 3px;
+  background-color: #ccc;
+  margin: 12px;
+}
+
+.receiptbody {
+  font-style: italic;
+  font-family: cursive;
+  color: green;
+}
